@@ -59,9 +59,9 @@ header {
 }
 
 .nav-link-apple img{
-  width: 1.6rem;
-  height: 4.4rem;
-  background: url('images/icons/logo.png') center no-repeat;
+  /* width: 1.6rem; */
+  height: 3rem;
+  /* background: url('images/icons/logo.png') center no-repeat; */
 }
 
 .nav-link-search {
