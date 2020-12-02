@@ -76,6 +76,12 @@ header {
   background: url('images/icons/bag.svg') center no-repeat;
 }
 
+.support {
+  background: url('images/hero/support/placeholder.jpg') center no-repeat;
+  height: 50rem;
+  background-size: auto 69.8rem;
+}
+
 /* iPhone 11 Pro section  */
 .iphone-11-pro {
   background: url('images/hero/iphone-11-pro/iphone_11_pro_large.jpg');
