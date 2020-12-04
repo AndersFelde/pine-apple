@@ -108,9 +108,10 @@ header {
 }
 
 .support {
-  background: url('images/hero/support/placeholder.jpg') center no-repeat;
-  height: 50rem;
-  background-size: auto 69.8rem;
+  margin-top: 4.4rem;
+  background: url('images/hero/support/screenplaceholder.jpg') center no-repeat;
+  height: 67rem;
+  background-size: auto 89.8rem;
 }
 
 /* iPhone 11 Pro section  */
