@@ -185,6 +185,10 @@ header {
   background: url('images/hero/watch/watch_large.jpg');
 }
 
+.tv-large {
+  background: url("/images/products/tv/Preview.png");
+}
+
 .title-heading-watch {
   height: 7.8rem;
   background: url('images/hero/watch/logo_watch_large.png') center no-repeat;
