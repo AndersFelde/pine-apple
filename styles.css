@@ -193,6 +193,12 @@ header {
   background: url('/images/products/airtag/back.png');
 }
 
+.tv-front {
+  background: url("/images/products/tv/front.png");
+}
+.tv-back {
+  background: url("/images/products/tv/back.png");
+}
 .title-heading-watch {
   height: 7.8rem;
   background: url('images/hero/watch/logo_watch_large.png') center no-repeat;
