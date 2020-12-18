@@ -192,6 +192,11 @@ header {
 .tag-large {
   background: url('/images/products/airtag/back.png');
 }
+.pineclock {
+  border-top: 0;
+  margin-top: -18rem;
+  background: url('/images/products/Klokke.png');
+}
 
 .tv-front {
   background: url("/images/products/tv/front.png");
@@ -213,7 +218,7 @@ header {
   background-position: center;
   background-repeat: no-repeat;
   border-top: 0.6rem solid #fff;
-  border-bottom: 0.6rem solod #fff;
+  border-bottom: 0.6rem solid #fff;
 }
 
 .iphone-11-pro {
