@@ -189,6 +189,10 @@ header {
   background: url("/images/products/tv/Preview.png");
 }
 
+.pinePad-large {
+  background: url("/images/products/PinePad.jpg");
+}
+
 .tag-large {
   background: url('/images/products/airtag/back.png');
 }
