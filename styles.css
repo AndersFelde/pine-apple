@@ -205,6 +205,11 @@ header {
 .tv-front {
   background: url("/images/products/tv/front.png");
 }
+
+.pinePadFront {
+  background: url("/images/products/PinePad.jpg");
+}
+
 .tv-back {
   background: url("/images/products/tv/back.png");
 }
